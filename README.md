@@ -1,2 +1,4 @@
 # CipherTickets
-A website of Scavenger Hunt "Tickets" in your local area where you could win real prizes!
+
+Cipher Tickets is a "Scavenger Hunt" website where users find real-world objects near their location to win real prizes.
+Prizes are donated by manufacturers in exchange for exposure and advertising. The site also offers ad space for revenue.
