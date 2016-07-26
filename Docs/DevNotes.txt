@@ -1,0 +1,227 @@
+
+ =========================================================
+                     CipherTickets.com
+              Development Began November 2010
+
+                    Domain changed from
+          HiddenTickets.com  to  CipherTickets.com
+                       on 11/28/2015
+
+    Copyright (c) 2010-2016, D+S Tech Labs Incorporated
+                    All Rights Reserved
+ =========================================================
+
+
+            Concept : Create "virtual" Tickets for the website.
+                      Each ticket has four secret codes (alphanumeric strings that are on physical objects in the U.S.)
+                      Puzzles are played/solved to reveal Clues to the location of the Codes
+                      Codes are entered into website to Win a Ticket and its secret Prize
+                      Prizes are worth at least $20
+                      Develop web site to show current Tickets and Code Clues
+                      New Tickets are added often to keep traffic up
+                      Site use is free to use, charge for advertising on site
+
+ 
+           Keywords : Treasure,Scavenger,Hunt,Cash,Prize,Hide,Cipher,Ticket,Tickets,Certificate,Clue,
+                      Find,Forage,Gold,Money,Probe,Pursue,Pursuit,Quest,Seek,Track,Tracker
+
+ 
+       .com Domains : CashTicketHunt		  CodeTreasures
+                      CashTicketQuest		  CipherWebCash
+                      FindMyCashTicket		* TreasureClue
+                      FindMyPrize		* TreasureHints
+                    √ CipherTickets		* GoldenHints
+                      Hunt4CashPrize		* Cash4Codes
+                      Hunt4GoldTicket
+                      Hunt4MyCash
+                      Hunt4Ticket
+                      Hunt4CashTicket
+                      IFoundACashTicket
+                      IHideCash
+                      IHidePrizes
+                      IHideTreasure
+                      MyTicket2Cash
+
+ 
+       How It Works : A "slide show" description of how the website works
+                      Also contains some Rules
+
+
+       Terms of Use : A "Terms of Use" statement must be agreed to
+                      by the website user.  It includes non-liability statements for:
+  
+                      - incurred fees, fines or bills from any activity
+                      - any material or stuctural loss or damage
+                      - injury or death to any human, animal or creature
+                      - ...
+
+
+            Privacy : A "Privacy Policy" statement will define what and how information
+                      is received, stored, used and distributed.
+
+ 
+      Ad Disclaimer : D+S Tech Labs, Inc. does not review, control, guarantee or warrant the reliability,
+                      validity, legitimacy or compliance with any law of any advertiser or advertisment on this website.
+                      Reference to any specific product, procedure, service or trade mark by any advertisment
+                      does not constitute or imply its association, endorsement or recommendation by
+                      D+S Tech Labs, Inc.
+
+
+ Website Components : Login/Register - Email/Password login, New User Registration Form
+                      Main Frame     - Logo, Title, My Account/Logout, Nav Buttons, How It Works/TOU/Privacy/Contact Us
+                                         User Account - Update/Close
+                      Welcome/News   - Latest news regarding this website, new Tickets, found Tickets, etc.
+                      Ticket List    - Scrolling list of Tickets showing Ticket #, Area, Status, Clues
+                                         Area window
+                                         Status/Ticket Detail Window
+                                         Clue list showing games/puzzles
+                      Try My Codes   - Allows redemption of found Tickets by entering Ticket codes
+                                         Congratulations Window
+                                         Payment/Shipment Window
+                                         Brag Wall Entry Window
+                      Brag Wall      - Allows User to upload a photo and make comments in a public area
+                      Forum          - Typical User Forum with Post, Search, Sorting features
+                      Admin Tools    - Usable by Developers only
+                                         Add News Item
+                                         Add New Ticket
+                                         Clue Editor
+                                         Database Query
+                                         SQL Trace
+                                         Event Log
+                                         Misc Tests
+
+
+       Clue Puzzles :   LOOK AT "ESCAPE THE ROOM" or "ESCAPE ROOMS" !!!
+
+                        Describe location or path to location, 30 steps left ...
+                        Completing or solving the riddle describes location
+                        Cipher in the picture are hints to location
+                        Cipher in a video are hints to location
+                        Puzzles (floating pieces), completed picture shows clue
+                      √ Puzzles (sliding grid of pieces)
+                        Difference between two pictures
+                        Stereogram, clue is in 3D
+                        Space Invaders, shoot the aliens
+                      √ Pong/Air Hockey, stay alive for [n] seconds or bounces
+                        Asteroids, shoot them and don't get hit
+                        Time limit game, reaching a certain score
+                        Breakout, bouncing ball against bricks
+                        Mazes, move mouse through a maze to the finish
+                      √ Concentration, flip over matching cards, reveal picture behind
+                      √ How many rectangles, triangles in a picture
+                        Mini Golf
+                      √ Hang Man
+                      √ Magic Square: Rows, columns and diagonals add up to the same sum
+                      √ Towers of Hanoi: Move stacked pieces from left peg to right
+                        Keyboard presses, press the keys shown, try to keep up
+                        Whack-A-Mole
+                        DeepZoom, zooming in on a DeepZoom image will show a hint
+                        Carnival Games: Shooting gallery, Ring toss, Whack-A-Mole, Darts
+                        http://www.mathsisfun.com/puzzles
+                        http://www.mathsisfun.com/games
+                        http://www.funny-games.biz/super-stacker-2.html
+                        http://thegamehomepage.com
+                        
+                    * Clue in Ad, Inform User that a Clue is contained in an Ad!!!
+                                  This will get Users to click on Ads, increasing the Pay-Per-Click rate!!!
+
+              
+Code Location Ideas : In a public park or cemetary
+                      In a book of a library
+                      Scratched into a sidewalk
+                      Engraved onto a plack or wall
+                      In a public building, mall or hotel
+                      In an airport, train station, bus terminal
+                      Number of tiles on a floor
+                      Event dates, concert or event
+                      Lighthouses
+                      Young Circle, Hollywood, FL
+                      Dewey Decimal number of a book
+                      Dedication wall, placque, monument ...
+                      Overpass clearance height
+                      Length of an object in inches
+                      Distance between objects in inches
+                      Number of fence posts, telephone poles
+                      Height of an object, building, flagpole ...
+                      Number of pages in a book in a library
+                      Number of stairs in a building, of an escalator
+                      http://www.diva-girl-parties-and-stuff.com/scavenger-hunts.html
+                      http://www.birthdaypartyideas.com/html/scavenger_hunt.html
+
+
+   Traffic Analysis : Google Analytics (google.com/analytics)
+                      Google Account    : DSTechLabs (bill@dstechlabs.com)
+                      Google Email      : dstechlabs@gmail.com
+                      Password          : ...furries
+                      Analytics Account : UA-19526798-1
+                      Verification      : Verification code: b9cb8251-83543071-3554a2357f
+
+
+ Generating Traffic : Get on Facebook, Twitter, MySpace, etc.  Add links to your pages on these sites.
+                      https://headtalker.com/
+                      http://www.moneymakerblog.net/building-website/submit-website-google
+                      http://thinktraffic.net/
+                      http://www.problogger.net/archives/2011/02/05/10-little-known-ways-to-get-traffic-to-your-blog/
+                      http://www.thewebcitizen.com/2011/02/21/getting-traffic-to-your-website-five-free-ways/
+                      http://guideandnews.com/2011/04/08/how-to-get-traffic-for-your-website-from-twitter/
+                      http://www.youtube.com/watch?v=B_js2bLbNoQ
+                      http://www.howtomakeonlinemoney.net/free-tips/how-to-get-traffic-to-your-website-or-blog/
+                      http://onlineseowebservice.com/2011/03/how-to-get-more-traffic-to-your-website/
+                      http://googlemesocialnetworking.blogspot.com/2011/05/tips-to-get-traffic-for-you-website.html
+                      http://reflectingthedesigner.com/wordpress/2011/05/03/getting-keeping-traffic-on-your-website/
+                      http://www.sitepronews.com/2011/05/09/why-pay-to-get-more-traffic-to-your-website/
+                      http://www.work-at-home-forum.com/website-promotion-7/best-way-to-get-traffic-to-new-blog-19868.html
+                      http://www.businessonthenet.net/marketing-tips/methods-for-getting-traffic-to-your-website/
+                      http://www.inspiredtowrite.com/2011/04/9-more-ways-to-get-traffic-consistently-to-your-website.html
+                      http://www.clearstreamblog.com/2011/02/how-to-get-traffic-to-your-website-2/
+                      http://www.gailbottomleyonline.com/how-to-get-traffic-to-your-website
+                      
+                      
+  Revenue Resources : http://www.iab.net/guidelines/508676/508767/displayguidelines (Click on "Glossary of Terminology")
+                      http://computer.howstuffworks.com/web-advertising.htm (Great article!)
+                      https://www.google.com/adsense
+                      https://www.google.com/adsense/support/bin/request.py?contact=abg_afc&url=http://efreedom.com/Question/1-3082484/Saving-Richtextbox-Data-Inside-Database-Along-Formatting&hl=en&client=ca-pub-5095240990837916&adU=www.irisds.com&adT=Tape/Data+Restoration&adU=MindTouch.com/SaaS_Collaboration&adT=SaaS+Based+Collaboration&gl=US
+                      http://www.google.com/doubleclick/
+                      http://www.dailyblogtips.com/how-to-find-advertisers-for-your-website-the-ultimate-guide/
+                      http://sideincomeblogging.com/advertising-on-my-blog/
+                      http://buysellads.com/buy
+                      http://zacjohnson.com/
+                      http://zacjohnson.com/five-reasons-why-your-advertise-here-button-sucks/
+                      http://mashable.com/advertise/
+                      http://www.iab.net/
+                      http://www.w3schools.com/about/about_advert.asp (Pricing examples)
+                      http://www.iab.net/guidelines/508676/508767/displayguidelines
+                      http://www.sheknows.com/channels/mediakit
+                      http://buysellads.com/buy/detail/150/
+                      http://www.dailyblogtips.com/22-ways-to-find-advertisers-for-your-website/
+                      http://www.tdkubu.com/2011/05/how-to-get-advertisers-for-your-website.html
+                      http://www.blogtrafficexchange.com/how-to-get-advertisers-for-your-blog/
+                      http://iclickmate.blogspot.com/2011/02/tutorial-two-how-to-get-advertisers.html
+                      http://www.articles9.net/2011/05/affiliate-marketing-tips-how-to-get-initial-advertisers-to-your-website/
+                      http://www.sitepoint.com/forums/advertising-sales-affiliate-programs-6/best-way-get-ads-site-759148.html
+                      http://thenetsetter.com/blog/tips/adsense-placement/
+                      http://www.youtube.com/watch?v=XdnZmzpeRrc
+                      http://www.keywordcountry.com/adsense-income/attract-most-adsense-clicks/
+                      http://www.youtube.com/watch?v=n9gf6SXB9bo
+                      http://www.thesitewizard.com/revenue/google-adsense.shtml
+                      http://www.calamitiesofnature.com/extras/adservicereview.php
+                      http://www.wilsonweb.com/articles/bannerad-revenue.htm
+                      http://www.ehow.com/how_6464914_make-selling-ad-space-website.html
+                      http://www.masternewmedia.org/online-ad-revenue-optimization-strategies-to-increase-web-ads-performance/
+                      http://www.theoremcreations.com/ppc/bannersizes.php (Ad Sizes)
+                      http://www.bidvertiser.com/
+                      http://www.ehow.com/how_4470374_display-ads-website.html
+                      http://www.metacafe.com/watch/1275660/make_money_from_your_website/
+                      http://www.entireweb.com/speedyads/publisher/
+                      http://www.payperclickuniverse.com/pay-per-click-glossary.php
+                      http://www.freebyte.com/makemoney/
+                      http://www.affiliateseeking.com/list/23000001/1.html
+                      http://www.adone.com/website-publisher/earn-money-advertising-website
+                      http://www.technicstoday.com/2010/08/make-money-online-with-ads-on-your-websiteblog-globaltakeoff-net/
+                      http://www.essortment.com/all/advertisementw_tubc.htm
+                      http://www.ehow.com/how_5603935_place-ads-website.html
+                      http://pureenergysystems.com/advertising/ 
+                      http://computer.howstuffworks.com/banner-ad2.htm 
+                      http://computer.howstuffworks.com/banner-ad3.htm 
+                      http://computer.howstuffworks.com/banner-ad8.htm 
+
